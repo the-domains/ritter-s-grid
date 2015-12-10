@@ -1,7 +1,7 @@
 name: "Ritter's Grid"
 favicon: null
-layout_spectrum: 0.83725
-typography_spectrum: 0.04893
+layout_spectrum: 0.58973
+typography_spectrum: 0.14649
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#0a1600'
     - '#feb800'
     - '#b70200'
-  brandStrength: 0.3125
-  lightness: 0.8524378484580666
-  saturation: 0.1875
-  rhythmicContrast: 0.8971976598259062
+  brandStrength: 0.9375
+  lightness: 0.5
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
