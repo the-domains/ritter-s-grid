@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Trial with image colors
-datePublished: '2015-12-10T12:28:21.863Z'
-dateModified: '2015-12-10T12:27:57.852Z'
+datePublished: '2015-12-10T12:50:46.848Z'
+dateModified: '2015-12-10T12:50:42.844Z'
 title: What platform do I work on?
 author: []
+sourcePath: _posts/2015-12-10-what-platform-do-i-work-on.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-10-what-platform-do-i-work-on.md
-published: true
-url: what-platform-do-i-work-on/index.html
-_type: Article
+_type: Blurb
 
 ---
 Now you know what machine I am working on:
