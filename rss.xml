@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ritter's Grid]]></title>
         <description><![CDATA[Ritter's Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ritter-s-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 12:28:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 12:29:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ritter-s-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My very first Article on TheGrid]]></title>
+            <description><![CDATA[<article><h1>My very first Article on TheGrid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b80e79dc21b1b7d61f75e2ab6759e12b1b7f655.png"></article>]]></description>
+            <link>https://thegrid.ai/ritter-s-grid/my-very-first-article-on-thegrid/index.html</link>
+            <guid isPermaLink="false">9cd11c7a-d85a-4f97-8713-94861788decc</guid>
+            <pubDate>Thu, 10 Dec 2015 12:28:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What platform do I work on?]]></title>
             <description><![CDATA[<article><h1>What platform do I work on?</h1><p>Now you know what machine I am working on:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f25fe343591bea642c0113fa989b7570940598d.jpg"></article>]]></description>
-            <link>undefinedwhat-platform-do-i-work-on/index.html</link>
+            <link>https://thegrid.ai/ritter-s-grid/what-platform-do-i-work-on/index.html</link>
             <guid isPermaLink="false">bfaf5313-9e7f-486b-acee-2822385c2f5d</guid>
             <pubDate>Thu, 10 Dec 2015 12:28:21 GMT</pubDate>
         </item>
