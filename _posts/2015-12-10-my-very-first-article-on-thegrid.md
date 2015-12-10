@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Trial article to test the platform
-datePublished: '2015-12-10T12:36:33.078Z'
-dateModified: '2015-12-10T12:36:19.072Z'
+datePublished: '2015-12-10T12:51:15.205Z'
+dateModified: '2015-12-10T12:51:07.861Z'
 title: My very first Article on TheGrid
 author: []
 sourcePath: _posts/2015-12-10-my-very-first-article-on-thegrid.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: my-very-first-article-on-thegrid/index.html
-_type: Article
+_type: Blurb
 
 ---
 My very first Article on TheGrid
