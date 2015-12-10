@@ -4,8 +4,15 @@
         <description><![CDATA[Ritter's Grid]]></description>
         <link>https://thegrid.ai/ritter-s-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 12:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 12:50:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ritter-s-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Leigh Taylor ‏@lat  Aug 16 San Francisco, CA The shaver won't turn on within a foot radius of my beard. Wife disappointed. Good beard!</p>]]></description>
+            <link>https://twitter.com/lat</link>
+            <guid isPermaLink="false">42738134-f12c-444e-b1a9-70ca340b61ca</guid>
+            <pubDate>Thu, 10 Dec 2015 12:50:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My very first Article on TheGrid]]></title>
             <description><![CDATA[<article><h1>My very first Article on TheGrid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46745fd046038e2b2e08e4e3ceca31d26d41edc7.png"></article>]]></description>
