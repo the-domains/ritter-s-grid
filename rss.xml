@@ -4,21 +4,21 @@
         <description><![CDATA[Ritter's Grid]]></description>
         <link>https://thegrid.ai/ritter-s-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 09:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 09:08:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ritter-s-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06bd1847-5e4b-46d5-aa1b-ed20ed0d0e8e.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/06bd1847-5e4b-46d5-aa1b-ed20ed0d0e8e.png</link>
+            <guid isPermaLink="false">d3aeb6ee-2ab7-4e16-97d5-0a51bc217fa4</guid>
+            <pubDate>Mon, 04 Jan 2016 09:08:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Polyfills from a Better Future]]></title>
             <description><![CDATA[<article><h1>Polyfills from a Better Future</h1><p>Web developers are expected to build increasingly sophisticated UIs faster, cheaper, with tools that have not evolved with the times. Why is the trivial task of centering an element with CSS so</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd206c3fac6d2491f14705fe1240f9852369057c.jpg"></article>]]></description>
             <link>https://thegrid.ai/ritter-s-grid/polyfills-from-a-better-future/index.html</link>
             <guid isPermaLink="false">a2ebd6d9-132f-4c31-82a1-8fde9e1d5573</guid>
             <pubDate>Mon, 04 Jan 2016 09:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06bd1847-5e4b-46d5-aa1b-ed20ed0d0e8e.png">]]></description>
-            <link>https://thegrid.ai/ritter-s-grid/d3aeb6ee-2ab7-4e16-97d5-0a51bc217fa4/index.html</link>
-            <guid isPermaLink="false">d3aeb6ee-2ab7-4e16-97d5-0a51bc217fa4</guid>
-            <pubDate>Thu, 10 Dec 2015 13:19:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
